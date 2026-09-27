@@ -1,0 +1,5 @@
+--- My Stock Portfolio Summary ---
+Stock: GOOGL | Quantity: 5 | Price per share: $140 | Total: $700
+
+
+Grand Total Investment: $700
